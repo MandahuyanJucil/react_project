@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_project/static/css/main.5150540e.css",
+    "main.js": "/react_project/static/js/main.5e4f06c9.js",
+    "static/js/787.cda612ba.chunk.js": "/react_project/static/js/787.cda612ba.chunk.js",
+    "static/media/TecnoCamon15pro.jpg": "/react_project/static/media/TecnoCamon15pro.fd6b48ae324cdceba409.jpg",
+    "static/media/TECNO-Spark-5-Pro.jpg": "/react_project/static/media/TECNO-Spark-5-Pro.9be1ce5f2285c0808680.jpg",
+    "static/media/mainbackground.webp": "/react_project/static/media/mainbackground.f440a7a283b54a769b5b.webp",
+    "static/media/TECNO-CAMON-12-Pro.jpg": "/react_project/static/media/TECNO-CAMON-12-Pro.f83097b34d47aebc9ce5.jpg",
+    "static/media/IMG_20200607_072317.jpg": "/react_project/static/media/IMG_20200607_072317.41679c516c540bc619f9.jpg",
+    "index.html": "/react_project/index.html",
+    "main.5150540e.css.map": "/react_project/static/css/main.5150540e.css.map",
+    "main.5e4f06c9.js.map": "/react_project/static/js/main.5e4f06c9.js.map",
+    "787.cda612ba.chunk.js.map": "/react_project/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5150540e.css",
+    "static/js/main.5e4f06c9.js"
+  ]
+}
